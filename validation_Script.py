@@ -4,7 +4,11 @@ Created on Wed March 6 09:24:41 2019
 
 @author: James Moore
 
-Run this script on any of the 'calls...' files in the repository. 
+Run this script on any of the 'calls...' files in the repository.
+Upon Runng the user will specify a directory. This is the directory containing
+    the 'calls...' files.
+Once the directory is specified the user will input either the 'calls-4.csv'
+    or 'calls-50.csv' file.
 For 'calls-4.csv' and 'calls-50.csv' the script will pass.
 For 'calls-2k.dirty.csv' the script will print out a series of issues and 
     tell the user that the file is corrupt with improper encoding in line 21060.
