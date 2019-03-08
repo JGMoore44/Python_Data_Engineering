@@ -1,21 +1,15 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jan 25 09:52:01 2019
+Created on Tue March 5 09:52:01 2019
 
 @author: James Moore
 """
-#iteration 1: 1/25/19 --> Lean Solution
-#iteration 2: 1/26/19 --> Robust exceptions added
-#iteration 3: 1/28/19 --> Solution changed to utilize pandas methods
+
+# Import appropriate libraries
 import json
 import os
 import sys
 import pandas as pd
-
-#Define Function
-
-
-#Define Function
 
 #specify directory
 wkdir = 'NA'

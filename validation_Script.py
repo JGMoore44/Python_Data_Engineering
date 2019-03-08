@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jan 28 09:24:41 2019
+Created on Wed March 6 09:24:41 2019
 
 @author: James Moore
 """
+
+# Import appropriate libraries
 import csv
 import os
 import sys
